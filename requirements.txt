@@ -1,7 +1,6 @@
+tensorflow==2.15.0
 python-telegram-bot==20.7
-opencv-python
+opencv-python-headless
 numpy
-matplotlib
 fpdf
-tensorflow
 scikit-learn
