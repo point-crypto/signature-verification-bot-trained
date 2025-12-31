@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Datasets & user data
+train_data/
+data/
+
+# Generated outputs
+reports/
+visuals/
+
+# Trained model (large file)
+model.h5
+
+# OS files
+Thumbs.db
+.DS_Store
