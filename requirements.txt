@@ -1,0 +1,7 @@
+python-telegram-bot==20.7
+opencv-python
+numpy
+matplotlib
+fpdf
+tensorflow
+scikit-learn
